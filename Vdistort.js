@@ -2,6 +2,7 @@ var slider
 
 function setup() {
   createCanvas(400, 400);
+  createP('')
   textSize(25)
   slider = createSlider(1, 30, 1)
 }
